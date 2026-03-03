@@ -1,5 +1,5 @@
 # Supply Chain Analysis for 'Alexandria Container and Cargo Handling'
-### Analysis of the supply chain and operations for a local Port operating company
+### in depth analysis of the supply chain and operations of a local Port operating company: storage, throughput, average traffic. Pinpointing major drivers of revenue, and the major effects of the surrounding economic environment.
 ---
 ##  Team Members
 - **[Omar Mohamed Abdelaziz]**  
