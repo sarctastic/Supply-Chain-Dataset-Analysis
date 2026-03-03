@@ -1,5 +1,5 @@
-# Supply-Chain-Dataset-Analysis
-### Analysis of the supply chain and operations for a local woodworking company
+# Supply Chain Analysis for 'Alexandria Container and Cargo Handling'
+### Analysis of the supply chain and operations for a local Port operating company
 ---
 ##  Team Members
 - **[Omar Mohamed Abdelaziz]**  
@@ -15,12 +15,12 @@
 ---
 
 ##  Project Overview
-[End to end analysis of the production lines and supply chains of local woodworking and furniture factories.]
+[End to end analysis of storage lines and supply chains of a local Port operating company.]
 
 ---
 
 ## Project Objectives
-- [Analyse the supply line inputs and outputs]  
+- [Analyse the storage line inputs and outputs]  
 - [Determine Key Revenue Drivers]  
 - [Track all Implicit and Indirect Costs]  
 - [Determine the most profitable course of action]  
