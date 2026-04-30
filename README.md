@@ -60,4 +60,7 @@ in the given dataset.]
 - [Build a Visualization Dashboard: Build a Tableau visualization dashboard that
 visualizes the answers to all answered questions.
 o Final Presentation: Prepare a report and presentation summarizing the project
-work, including data analysis, model development, and deployment.]  
+work, including data analysis, model development, and deployment.]
+
+### Initial excel Analysis and Dashboard
+https://drive.google.com/drive/folders/13DlysztwADoDwkqpftAqLmiqwTjL-YxR?usp=sharing
