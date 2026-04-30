@@ -15,15 +15,15 @@
 ---
 
 ##  Project Overview
-[End to end analysis of storage lines and supply chains of a local Port operating company.]
+[End to end analysis lines and supply chains of the DataCo smart supply dataset.]
 
 ---
 
 ## Project Objectives
-- [Analyse the storage line inputs and outputs]  
+- [Analyse the line inputs and outputs]  
 - [Determine Key Revenue Drivers]  
-- [Track all Implicit and Indirect Costs]  
-- [Determine the most profitable course of action]  
+- [Track Highest risk factors]  
+- [Determine Key Areas of Improvement]  
 
 ---
 
