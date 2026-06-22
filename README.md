@@ -43,6 +43,7 @@
 ###  Week 1 — [Building the Data Model]
 - [Data Preprocessing: Build a data model and clean and preprocess the data.]  
 
+<img width="1677" height="835" alt="Screenshot 2026-06-22 235857" src="https://github.com/user-attachments/assets/3326649a-73f1-4f62-9e0a-fd5af9b760ec" />
 
 ### Week 2 — [Preliminary Analysis]
 - [Determine Data Analysis Questions: Determine all possible analysis questions
@@ -61,3 +62,10 @@ in the given dataset.]
 visualizes the answers to all answered questions.
 o Final Presentation: Prepare a report and presentation summarizing the project
 work, including data analysis, model development, and deployment.]
+
+<img width="1871" height="916" alt="Screenshot 2026-06-22 235502" src="https://github.com/user-attachments/assets/9db13cca-0ea3-462d-8024-e6d9c5275825" />
+
+
+<img width="1917" height="939" alt="Screenshot 2026-06-22 235957" src="https://github.com/user-attachments/assets/0f7959e0-f5e7-4265-8b92-76b613559dd6" />
+
+
