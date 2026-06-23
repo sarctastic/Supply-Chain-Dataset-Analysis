@@ -15,7 +15,7 @@
 ---
 
 ##  Project Overview
-[End to end analysis lines and supply chains of the DataCosmartsupply dataset.]
+[End to end analysis of lines and supply chains of the DataCosmartsupply dataset.]
 
 ---
 
@@ -31,7 +31,7 @@
 - [Finding the most efficient allocation of resources]  
 - [Tracking the entire supply process end to end]  
 - [Forecasting the Revenues and Costs for the following year]  
-- [Determining the bottom line for both the current and following years]  
+- [Determining the bottom line]  
 - [Recommending steps to reach the most profitable outcome]  
 
 >  **Final Deliverable:** [A working Dashboard for tracking supply data in real time]
