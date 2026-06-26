@@ -38,7 +38,7 @@
 
 ---
 
-## Project Plan (4 Weeks)
+## Project Plan
 
 ###  Week 1 — [Building the Data Model]
 - [Data Preprocessing: Build a data model and clean and preprocess the data.]  
