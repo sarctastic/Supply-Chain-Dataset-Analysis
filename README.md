@@ -48,8 +48,6 @@ An end-to-end operational, financial, and logistical analysis of the DataCo Smar
 
 ---<img width="1677" height="835" alt="Screenshot 2026-06-22 235857" src="https://github.com/user-attachments/assets/a4a9298e-8043-42e9-840d-67c4a6690d18" />
 
-
-
 ### Preliminary Analysis
 * **Core Operational & Financial Questions Answered:**
     * *What is the scale of absolute gross cash volume passing through the system?* Resolved via **Total Sales** measure ($36.78M).
