@@ -60,20 +60,14 @@ An end-to-end operational, financial, and logistical analysis of the DataCo Smar
 ### Advanced Analytical Insights Phase
 * **Fulfillment Rate Verification:** Developed an analytical tracking index to evaluate organizational success rates based on formal completion flags.
   
-  $$\text{Completed Orders \%} = \frac{\text{COUNTROWS}(\text{Fact\_Order\_Headers filtered by } \text{Order Status} = \text{"COMPLETE"})}{\text{TOTAL COUNTROWS}(\text{Fact\_Order\_Headers})}$$
-  
   *Insight:* The model identified a baseline operational success metric of **33.03%** for fully closed transactional items.
 
 * **Logistical Delay Root-Cause Isolation:** Generated a row-by-row calculated column to track operational delivery errors:
-  
-  $$\text{Transit Variance} = \text{Days for shipping (real)} - \text{Days for shipment (scheduled)}$$
-  
+    
   *Insight:* Plotting this variance inside a distribution histogram exposed a critical operational bottleneck skewed at the **+1 Day** mark, signaling systemic shipping delays rather than randomized couriering incidents.
 
 * **Risk Metrics Evaluation:** Isolated a primary red-flag performance metric counting orders flagged with active transactional vulnerability:
-  
-  $$\text{High Risk Orders} = \text{CALCULATE}(\text{COUNTROWS}, \text{Late\_delivery\_risk} = 1)$$
-  
+    
   *Insight:* Exposed a high-risk volume of **36K orders** experiencing active operational delay vulnerabilities, highlighting a core target for logistics framework revisions.
 
 ---
