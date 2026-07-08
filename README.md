@@ -46,7 +46,9 @@ An end-to-end operational, financial, and logistical analysis of the DataCo Smar
 
 * > **Data Optimization Note:** Extracted and isolated a highly optimized 64-row dimensional junk table (`Dim_Fulfillment_Status`) capturing all unique mathematical combinations of `Delivery Status`, `Shipping Mode`, and `Order Status`. This structurally decoupled text-heavy status parameters from the core transactional header engine (`Fact_Order_Headers`), significantly reducing file footprint and accelerating execution speeds.
 
----
+---<img width="1677" height="835" alt="Screenshot 2026-06-22 235857" src="https://github.com/user-attachments/assets/a4a9298e-8043-42e9-840d-67c4a6690d18" />
+
+
 
 ### Preliminary Analysis
 * **Core Operational & Financial Questions Answered:**
@@ -78,3 +80,6 @@ An end-to-end operational, financial, and logistical analysis of the DataCo Smar
     * **Analytical Canvas Layout:** Incorporates a diverse visual layout including a Product Volume TreeMap hierarchy, an unbroken Time-Series Net Benefit line trend, a Shipping Mode horizontal volume split, a Transit Variance distribution chart, and an itemized Category Margin Grid.
     * **Interactive Controls Strip:** A top-level cluster of 5 compact dropdown slicers filtering the canvas dynamically across `Month`, `Shipping Mode`, `Payment Method`, `Order Country`, `Product Category`, and `Product Department`.
     * **Sleek Navigation Dock:** A left-hand dark slate navigation rail maximizing negative canvas space balance, housing operational control triggers (**Home** and **Reset All Filters** actions via custom page bookmarking) along with integrated professional profile web-links directly referencing developer portfolio repositories on **GitHub** and **LinkedIn**.
+
+<img width="1618" height="871" alt="Screenshot 2026-07-07 002542" src="https://github.com/user-attachments/assets/af40aa38-bee1-4a62-a52a-497c20178f3d" />
+<img width="1917" height="939" alt="Screenshot 2026-06-22 235957" src="https://github.com/user-attachments/assets/f72915d5-d218-4f0b-b588-97ec96ee8107" />
